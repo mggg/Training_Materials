@@ -3,10 +3,17 @@
 ## Schedule
 
 ### Wednesday 
+<<<<<<< Updated upstream
 * 1:45-3:15 - Walk-through of Chicago case study |  [slides](https://github.com/mggg/Training_Materials/blob/main/Chicago-walkthrough.pdf)
 * 3:30-4:30 - Split sessions: 
     - *Practitioners* - Intro to Python for VoteKit | [notebook 1](https://github.com/mggg/Training_Materials/blob/main/notebooks/practitioners/Prac_1-1_hello_world.ipynb) [notebook 2](https://github.com/mggg/Training_Materials/blob/main/notebooks/practitioners/Prac_1-2_loading_a_CVR.ipynb)
     - *Technical* - The mathematics of VoteKit | [slides](https://github.com/mggg/Training_Materials/blob/main/MathVoteKit.pdf) [notebook](https://github.com/mggg/Training_Materials/blob/main/notebooks/technical/Tech_1_math_of_votekit_live.ipynb)
+=======
+* 1:45-3:15 - Walk-through of Chicago case study [slides](https://github.com/mggg/Training_Materials/blob/main/slides/Chicago-walkthrough.pdf)
+* 3:30-4:30 - Split sessions: 
+    - *Practitioners* - Intro to Python for VoteKit [notebook 1](https://github.com/mggg/Training_Materials/blob/main/notebooks/practitioners/Prac_1-1_hello_world.ipynb) [notebook 2](https://github.com/mggg/Training_Materials/blob/main/notebooks/practitioners/Prac_1-2_loading_a_CVR.ipynb)
+    - *Technical* - The mathematics of VoteKit [slides](https://github.com/mggg/Training_Materials/blob/main/slides/MathVoteKit.pdf) [notebook](https://github.com/mggg/Training_Materials/blob/main/notebooks/technical/Tech_1_math_of_votekit_live.ipynb)
+>>>>>>> Stashed changes
 
 
 ### Thursday 
@@ -25,5 +32,11 @@
 ### Friday
 
 * 9-10:30 - Place-specific exercise, Part 2
+<<<<<<< Updated upstream
 * 10:45-11:45 - Communicating technical and non-technical information to diverse stakeholders | [notebook](https://github.com/mggg/Training_Materials/blob/main/notebooks/joint/Joint_2_model_validation_and_proportionality.ipynb)
 * 1:30-2:30 - Place-specific exercise, Part 3 | [slides](https://docs.google.com/presentation/d/103AvFqbyNqv6Ky-Hxb4fzB37_aWhhURIAUr23tfOwu4/edit?usp=sharing)
+=======
+* 10:45-11:45 - Communicating technical and non-technical information to diverse stakeholders [notebook](https://github.com/mggg/Training_Materials/blob/main/notebooks/joint/Joint_2_model_validation_and_proportionality.ipynb)
+* 1:30-2:30 - Place-specific exercise, Part 3 [slides](https://github.com/mggg/Training_Materials/blob/main/slides/VotingMethods-plots.pdf)
+* [VoteKit feature requests](images/votekit_ft_requests_june_2025.jpg)
+>>>>>>> Stashed changes
