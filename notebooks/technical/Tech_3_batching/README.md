@@ -13,7 +13,7 @@ Time to get every one set up: 10 min
 
 - Running a single election in VoteKit (3 min)
 - Running a simple instance of GerryChain and writing to a file (5 min -- script provided)
-- Collecting demographic data with GerryChian (5 min -- script provided)
+- Collecting demographic data with GerryChain (5 min -- script provided)
 - Incorporating GerryChain runs into election runs (10 min)
 
 
