@@ -1,5 +1,7 @@
 # Voting Methods Modeling Workshop June 18-20, 2025
 
+Note that all notebooks were written to use VoteKit version 3.2.1. If a notebook is failing, try setting the version of VoteKit with `pip install votekit==3.2.1`.
+
 ## Schedule
 
 ### Wednesday 
